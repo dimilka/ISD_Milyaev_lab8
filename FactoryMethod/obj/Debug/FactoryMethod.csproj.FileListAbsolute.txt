@@ -1,0 +1,6 @@
+/Users/ilyaletenkov/Projects/FactoryMethod/bin/Debug/FactoryMethod.exe
+/Users/ilyaletenkov/Projects/FactoryMethod/bin/Debug/FactoryMethod.pdb
+/Users/ilyaletenkov/Projects/FactoryMethod/obj/Debug/FactoryMethod.csproj.AssemblyReference.cache
+/Users/ilyaletenkov/Projects/FactoryMethod/obj/Debug/FactoryMethod.csproj.CoreCompileInputs.cache
+/Users/ilyaletenkov/Projects/FactoryMethod/obj/Debug/FactoryMethod.exe
+/Users/ilyaletenkov/Projects/FactoryMethod/obj/Debug/FactoryMethod.pdb

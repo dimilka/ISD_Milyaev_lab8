@@ -1,0 +1,6 @@
+/Users/ilyaletenkov/Projects/Facade/obj/Debug/Facade.csproj.AssemblyReference.cache
+/Users/ilyaletenkov/Projects/Facade/obj/Debug/Facade.csproj.CoreCompileInputs.cache
+/Users/ilyaletenkov/Projects/Facade/bin/Debug/Facade.exe
+/Users/ilyaletenkov/Projects/Facade/bin/Debug/Facade.pdb
+/Users/ilyaletenkov/Projects/Facade/obj/Debug/Facade.exe
+/Users/ilyaletenkov/Projects/Facade/obj/Debug/Facade.pdb

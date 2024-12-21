@@ -1,0 +1,6 @@
+/Users/ilyaletenkov/Projects/Decorator/bin/Debug/Decorator.exe
+/Users/ilyaletenkov/Projects/Decorator/bin/Debug/Decorator.pdb
+/Users/ilyaletenkov/Projects/Decorator/obj/Debug/Decorator.csproj.AssemblyReference.cache
+/Users/ilyaletenkov/Projects/Decorator/obj/Debug/Decorator.csproj.CoreCompileInputs.cache
+/Users/ilyaletenkov/Projects/Decorator/obj/Debug/Decorator.exe
+/Users/ilyaletenkov/Projects/Decorator/obj/Debug/Decorator.pdb

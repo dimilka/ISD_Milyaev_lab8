@@ -1,0 +1,6 @@
+/Users/ilyaletenkov/Projects/Command/obj/Debug/Command.csproj.AssemblyReference.cache
+/Users/ilyaletenkov/Projects/Command/obj/Debug/Command.csproj.CoreCompileInputs.cache
+/Users/ilyaletenkov/Projects/Command/bin/Debug/Command.exe
+/Users/ilyaletenkov/Projects/Command/bin/Debug/Command.pdb
+/Users/ilyaletenkov/Projects/Command/obj/Debug/Command.exe
+/Users/ilyaletenkov/Projects/Command/obj/Debug/Command.pdb

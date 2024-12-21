@@ -1,0 +1,2 @@
+/Users/ilyaletenkov/Projects/Strategy/obj/Debug/Strategy.csproj.AssemblyReference.cache
+/Users/ilyaletenkov/Projects/Strategy/obj/Debug/Strategy.csproj.CoreCompileInputs.cache

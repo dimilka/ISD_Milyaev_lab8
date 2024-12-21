@@ -1,0 +1,6 @@
+/Users/ilyaletenkov/Projects/ChainOfResponsibility/bin/Debug/ChainOfResponsibility.exe
+/Users/ilyaletenkov/Projects/ChainOfResponsibility/bin/Debug/ChainOfResponsibility.pdb
+/Users/ilyaletenkov/Projects/ChainOfResponsibility/obj/Debug/ChainOfResponsibility.csproj.AssemblyReference.cache
+/Users/ilyaletenkov/Projects/ChainOfResponsibility/obj/Debug/ChainOfResponsibility.csproj.CoreCompileInputs.cache
+/Users/ilyaletenkov/Projects/ChainOfResponsibility/obj/Debug/ChainOfResponsibility.exe
+/Users/ilyaletenkov/Projects/ChainOfResponsibility/obj/Debug/ChainOfResponsibility.pdb

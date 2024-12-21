@@ -1,0 +1,6 @@
+/Users/ilyaletenkov/Projects/Adapter/bin/Debug/Adapter.exe
+/Users/ilyaletenkov/Projects/Adapter/bin/Debug/Adapter.pdb
+/Users/ilyaletenkov/Projects/Adapter/obj/Debug/Adapter.csproj.AssemblyReference.cache
+/Users/ilyaletenkov/Projects/Adapter/obj/Debug/Adapter.csproj.CoreCompileInputs.cache
+/Users/ilyaletenkov/Projects/Adapter/obj/Debug/Adapter.exe
+/Users/ilyaletenkov/Projects/Adapter/obj/Debug/Adapter.pdb

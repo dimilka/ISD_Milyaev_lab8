@@ -1,0 +1,6 @@
+/Users/ilyaletenkov/Projects/AbstractFactorySingleton/bin/Debug/AbstractFactorySingleton.exe
+/Users/ilyaletenkov/Projects/AbstractFactorySingleton/bin/Debug/AbstractFactorySingleton.pdb
+/Users/ilyaletenkov/Projects/AbstractFactorySingleton/obj/Debug/AbstractFactorySingleton.csproj.AssemblyReference.cache
+/Users/ilyaletenkov/Projects/AbstractFactorySingleton/obj/Debug/AbstractFactorySingleton.csproj.CoreCompileInputs.cache
+/Users/ilyaletenkov/Projects/AbstractFactorySingleton/obj/Debug/AbstractFactorySingleton.exe
+/Users/ilyaletenkov/Projects/AbstractFactorySingleton/obj/Debug/AbstractFactorySingleton.pdb
